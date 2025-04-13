@@ -1,6 +1,6 @@
 package org.lessons.abs;
 
-public abstract class Animale {
+public abstract class AbstractAnimale {
     public void dormi() {
         System.out.println("Zzz");
     }
